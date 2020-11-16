@@ -10,6 +10,12 @@
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
