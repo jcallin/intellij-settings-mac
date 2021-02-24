@@ -24,6 +24,7 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
+  <action id="ReformatCode" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
@@ -35,6 +36,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="ScalaFmtFormat">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="SendEOF" />
+  <action id="Vcs.ReformatCommitMessage" />
   <action id="openAssertEqualsDiff" />
 </keymap>
