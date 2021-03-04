@@ -1,0 +1,6 @@
+<application>
+  <component name="ScalaCodeInsightSettings">
+    <option name="uniqueTypesToShowMethodChains" value="2" />
+    <option name="showObviousType" value="true" />
+  </component>
+</application>
