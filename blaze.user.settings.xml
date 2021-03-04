@@ -1,5 +1,6 @@
 <application>
   <component name="BlazeUserSettings">
+    <option name="bazelBinaryPath" value="$USER_HOME$/bin/bazel-run" />
     <option name="showAddFileToProjectNotification" value="false" />
     <option name="syncStatusPopupShown" value="true" />
   </component>
