@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="mailgun_api_key" type="PLAIN_TEXT" />
       <mapping pattern="bq-fulfil-mejuri-key" type="PLAIN_TEXT" />
+      <mapping pattern="environments" type="PLAIN_TEXT" />
       <mapping pattern="Pipfile-lambda" type="PLAIN_TEXT" />
       <mapping ext="sclang" type="PLAIN_TEXT" />
       <mapping ext="geojson" type="PLAIN_TEXT" />
