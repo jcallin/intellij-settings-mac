@@ -15,8 +15,8 @@
     <mask>*.sh</mask>
     <mask>*.sql</mask>
     <mask>*.scala</mask>
-    <mask>BUILD</mask>
     <mask>.tf</mask>
     <mask>*.tf</mask>
+    <mask>BUILD</mask>
   </component>
 </application>
