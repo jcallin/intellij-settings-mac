@@ -9,6 +9,7 @@
       <mapping pattern="environments" type="PLAIN_TEXT" />
       <mapping pattern="Pipfile-lambda" type="PLAIN_TEXT" />
       <mapping ext="sclang" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="geojson" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
