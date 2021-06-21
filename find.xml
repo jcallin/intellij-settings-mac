@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value=".scala" />
+    <option name="FILE_MASK" value="BUILD" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -18,7 +18,7 @@
     <mask>*.scala</mask>
     <mask>.tf</mask>
     <mask>*.tf</mask>
-    <mask>BUILD</mask>
     <mask>.scala</mask>
+    <mask>BUILD</mask>
   </component>
 </application>
