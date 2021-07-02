@@ -19,5 +19,6 @@
     <mask>*.tf</mask>
     <mask>.scala</mask>
     <mask>BUILD</mask>
+    <mask>README</mask>
   </component>
 </application>
