@@ -18,7 +18,7 @@
     <mask>.tf</mask>
     <mask>*.tf</mask>
     <mask>.scala</mask>
-    <mask>BUILD</mask>
     <mask>README</mask>
+    <mask>BUILD</mask>
   </component>
 </application>
