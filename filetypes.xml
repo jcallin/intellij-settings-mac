@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="atomizer_configuration" type="PLAIN_TEXT" />
       <mapping pattern="mailgun_api_key" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="bq-fulfil-mejuri-key" type="PLAIN_TEXT" />
