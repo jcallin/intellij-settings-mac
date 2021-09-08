@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.proto" />
+    <option name="FILE_MASK" value="BUILD" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -19,8 +19,8 @@
     <mask>*.tf</mask>
     <mask>.scala</mask>
     <mask>README</mask>
-    <mask>BUILD</mask>
     <mask>prod.yaml</mask>
     <mask>*.proto</mask>
+    <mask>BUILD</mask>
   </component>
 </application>
