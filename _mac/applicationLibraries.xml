@@ -12,6 +12,33 @@
         <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
     </library>
+    <library name="Pipenv (polling-map) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/python@3.9/3.9.7_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
+        <root url="file:///usr/local/Cellar/python@3.9/3.9.7_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/polling-map-elx1V-Ar/lib/python3.9/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/-793605356" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/python@3.9/3.9.7_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
+        <root url="file:///usr/local/Cellar/python@3.9/3.9.7_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/polling-map-elx1V-Ar/lib/python3.9/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/-793605356" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 2.7 interpreter library">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
@@ -53,6 +80,33 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="Python 3.9 (polling-map) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/python@3.9/3.9.7_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
+        <root url="file:///usr/local/Cellar/python@3.9/3.9.7_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
+        <root url="file:///Volumes/Projects/polling-map/venv/lib/python3.9/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/413606159" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/python@3.9/3.9.7_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
+        <root url="file:///usr/local/Cellar/python@3.9/3.9.7_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
+        <root url="file:///Volumes/Projects/polling-map/venv/lib/python3.9/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/413606159" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
     </library>
     <library name="Python 3.9 interpreter library">
       <CLASSES>
