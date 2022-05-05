@@ -1,11 +1,11 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="ReopenClosedTab">
-        <abbreviation name="ro" />
-      </action>
       <action id="MoveTabRight">
         <abbreviation name="sr" />
+      </action>
+      <action id="ReopenClosedTab">
+        <abbreviation name="ro" />
       </action>
     </abbreviations>
   </component>

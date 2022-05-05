@@ -1,14 +1,15 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="srcjar" type="ARCHIVE" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="atomizer_configuration" type="PLAIN_TEXT" />
       <mapping pattern="mailgun_api_key" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="bq-fulfil-mejuri-key" type="PLAIN_TEXT" />
       <mapping pattern="environments" type="PLAIN_TEXT" />
       <mapping pattern="Pipfile-lambda" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="bq-fulfil-mejuri-key" type="PLAIN_TEXT" />
+      <mapping pattern="atomizer_configuration" type="PLAIN_TEXT" />
       <mapping ext="sclang" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="geojson" type="PLAIN_TEXT" />
@@ -17,8 +18,9 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="jsonl" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="jsonl" approved="true" type="JSON-lines" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
