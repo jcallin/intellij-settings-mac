@@ -16,7 +16,6 @@
     <mask>*.conf</mask>
     <mask>*.yml</mask>
     <mask>*.sh</mask>
-    <mask>*.sql</mask>
     <mask>.tf</mask>
     <mask>.scala</mask>
     <mask>README</mask>
@@ -31,5 +30,6 @@
     <mask>application.conf.template</mask>
     <mask>BUILD</mask>
     <mask>*.scala</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
