@@ -4,12 +4,12 @@
       <mapping ext="srcjar" type="ARCHIVE" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="mailgun_api_key" type="PLAIN_TEXT" />
       <mapping pattern="environments" type="PLAIN_TEXT" />
+      <mapping pattern="atomizer_configuration" type="PLAIN_TEXT" />
+      <mapping pattern="mailgun_api_key" type="PLAIN_TEXT" />
       <mapping pattern="Pipfile-lambda" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="bq-fulfil-mejuri-key" type="PLAIN_TEXT" />
-      <mapping pattern="atomizer_configuration" type="PLAIN_TEXT" />
       <mapping ext="sclang" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="geojson" type="PLAIN_TEXT" />
