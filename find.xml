@@ -29,5 +29,6 @@
     <mask>BUILD</mask>
     <mask>*.sql</mask>
     <mask>*.scala</mask>
+    <mask>*.template</mask>
   </component>
 </application>
