@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -28,7 +29,7 @@
     <mask>application.conf.template</mask>
     <mask>BUILD</mask>
     <mask>*.sql</mask>
-    <mask>*.scala</mask>
     <mask>*.template</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
