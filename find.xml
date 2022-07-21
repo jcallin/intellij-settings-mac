@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tf" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -19,7 +20,6 @@
     <mask>README</mask>
     <mask>prod.yaml</mask>
     <mask>Transaction*</mask>
-    <mask>*.tf</mask>
     <mask>DOCKERFILE</mask>
     <mask>.bzl</mask>
     <mask>pre_deploy.sh</mask>
@@ -30,5 +30,6 @@
     <mask>*.template</mask>
     <mask>*.scala</mask>
     <mask>BUILD</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
