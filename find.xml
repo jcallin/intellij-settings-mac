@@ -24,9 +24,9 @@
     <mask>*.sql</mask>
     <mask>*.template</mask>
     <mask>*.tf</mask>
-    <mask>BUILD</mask>
     <mask>application.conf.template</mask>
     <mask>*.scala</mask>
     <mask>*.yaml</mask>
+    <mask>BUILD</mask>
   </component>
 </application>
