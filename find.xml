@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.sh" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -28,7 +28,7 @@
     <mask>*.yaml</mask>
     <mask>BUILD</mask>
     <mask>deployment.yaml</mask>
-    <mask>*.sh</mask>
     <mask>*.scala</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
