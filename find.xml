@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -29,8 +30,8 @@
     <mask>BUILD</mask>
     <mask>deployment.yaml</mask>
     <mask>*.sh</mask>
-    <mask>*.scala</mask>
     <mask>*.template</mask>
     <mask>terragrunt*</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
