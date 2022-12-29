@@ -31,5 +31,6 @@
     <mask>*.proto</mask>
     <mask>*.scala</mask>
     <mask>*.py</mask>
+    <mask>WORKSPACE</mask>
   </component>
 </application>
