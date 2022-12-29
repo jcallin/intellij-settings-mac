@@ -29,7 +29,7 @@
     <mask>BUILD</mask>
     <mask>*.yaml</mask>
     <mask>*.proto</mask>
-    <mask>*.py</mask>
     <mask>*.scala</mask>
+    <mask>*.py</mask>
   </component>
 </application>
