@@ -14,7 +14,6 @@
     <mask>*.conf</mask>
     <mask>*.yml</mask>
     <mask>.tf</mask>
-    <mask>.scala</mask>
     <mask>README</mask>
     <mask>prod.yaml</mask>
     <mask>Transaction*</mask>
@@ -34,5 +33,6 @@
     <mask>*.py</mask>
     <mask>WORKSPACE</mask>
     <mask>BUILD</mask>
+    <mask>.scala</mask>
   </component>
 </application>
